@@ -1,1 +1,1 @@
-# Bloatware-Safe-Remove
+# List of Samsung Bloatware Safe to Remove
